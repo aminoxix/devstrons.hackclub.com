@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "yarn run dev"
+    "start": "next"
   },
   "dependencies": {
     "@hackclub/meta": "^1.0.0",
